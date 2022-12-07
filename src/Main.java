@@ -142,7 +142,7 @@ public class Main {
     }
 
     public static void task7 () {
-        System.out.println("Задача7");
+        System.out.println("Задача 7");
         double sum = 0;
         int[] arr = generateRandomArray();
         for (int j : arr) {
